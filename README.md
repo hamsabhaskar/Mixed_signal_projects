@@ -1,5 +1,7 @@
 # Mixed_signal_projects
 Design and Performance Analysis of high gain, Low-power Two stage Folded Cascode Opamp
+# Abstract 
+In this project, we aim to design and analyze a two-stage folded cascode operational amplifier using 90 nm CMOS technology. The main goal is to achieve high gain, wide bandwidth, and low power consumption. The folded cascode topology is chosen for its ability to work efficiently at low supply voltages. The design will be simulated to observe key parameters such as gain, bandwidth, phase margin, and power dissipation.
 # Introduction to Folded Cascode Configuration
 Before understanding the folded cascode configuration, it is important to first understand what a cascode stage means. A cascode is essentially a combination of Common Source (CS) and Common Gate (CG) stages connected together. This type of configuration is widely used in analog circuit design due to its ability to achieve:
 
